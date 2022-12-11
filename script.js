@@ -32,6 +32,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: true
         },
+        {
+          name: "RAVE",
+          artist: "DARK MP",
+          cover: "https://i.ytimg.com/vi/PTZgxW_3LIQ/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoGDAP&rs=AOn4CLBzLSx6YdPfBJbfP-cLhNxndqXXyg",
+          source: "https://raw.githubusercontent.com/mehdimirzafaruk/m-zikler/main/RAVE.mp3",
+          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          favorited: true
+        }
       ],
       currentTrack: null,
       currentTrackIndex: 0,

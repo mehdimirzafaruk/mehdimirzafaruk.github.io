@@ -22,7 +22,7 @@ new Vue({
           cover: "https://i.ytimg.com/an_webp/EgSXIazbV1Q/mqdefault_6s.webp?du=3000&sqp=CKCa2JwG&rs=AOn4CLB-rPnR5Bspn3TB9ZyfHFbs0EjZbA",
           source: "https://raw.githubusercontent.com/mehdimirzafaruk/m-zikler/main/EYEDRESS%20-%20JEALOUS%20(OFFICIAL%20VIDEO).mp3",
           url: "https://www.youtube.com/watch?v=EgSXIazbV1Q",
-          favorited: false
+          favorited: ture
         },
         {
           name: "Bu Şehir Girdap Gülüm",
@@ -30,7 +30,7 @@ new Vue({
           cover: "https://i.ytimg.com/vi/YXQabikr6Zs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_JPYT35mkRvQKFyn2fFVzo-sDWQ",
           source: "https://raw.githubusercontent.com/mehdimirzafaruk/m-zikler/main/y2mate.com%20-%20Memati%20%20Bu%20%C5%9Eehir%20Girdap%20G%C3%BCl%C3%BCm.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
-          favorited: false
+          favorited: ture
         },
       ],
       currentTrack: null,

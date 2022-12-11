@@ -20,7 +20,7 @@ new Vue({
           name: "Jealous",
           artist: "Eyedress",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          source: "https://www.youtube.com/watch?v=EgSXIazbV1Q",
           url: "https://www.youtube.com/watch?v=EgSXIazbV1Q",
           favorited: false
         },

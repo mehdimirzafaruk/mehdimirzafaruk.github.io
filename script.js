@@ -19,8 +19,8 @@ new Vue({
         {
           name: "Jealous",
           artist: "Eyedress",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "/musics/EYEDRESS - JEALOUS (OFFICIAL VIDEO).mp3",
+          cover: "https://i.ytimg.com/an_webp/EgSXIazbV1Q/mqdefault_6s.webp?du=3000&sqp=CKCa2JwG&rs=AOn4CLB-rPnR5Bspn3TB9ZyfHFbs0EjZbA",
+          source: "https://mehdimirzafaruk.github.io/musics/EYEDRESS%20-%20JEALOUS%20(OFFICIAL%20VIDEO).mp3",
           url: "https://www.youtube.com/watch?v=EgSXIazbV1Q",
           favorited: false
         },
